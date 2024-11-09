@@ -24,4 +24,12 @@ The project contains 10 tasks, each focused on a distinct aspect of poetry analy
 
 ### Usage
 
-Open [`PoetryAnalysis.ipynb`](PoetryAnalysis.ipynb) with Google Colab and run all cells
+Open [`PoetryAnalysis.ipynb`](PoetryAnalysis.ipynb) with Google Colab and run all cells from top to bottom.
+
+### Presentation slide
+
+Here is the slide I used to present about the project. You can have a look via this [link](https://docs.google.com/presentation/d/1nSFTY_Hxnsslhv5apOJ8Aqd2k7kwCtcjbGasZhc2zQc/edit?usp=sharing)
+
+### Report
+
+The detailed report you can view here [NLP_Final_Report](NLP_Final_Project_Report_HungTrinh.pdf)
